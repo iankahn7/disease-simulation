@@ -1,0 +1,8 @@
+dimensions 500 500
+exposuredistance 10
+incubation 25
+sickness 9
+recover 0.95
+move 4 15
+initialsick 1
+random 500
